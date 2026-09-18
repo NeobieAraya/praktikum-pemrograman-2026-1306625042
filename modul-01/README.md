@@ -9,8 +9,8 @@
 ## 1. Problem Statement
 > Membuat sebuah program untuk mengganti satuan suhu dari celcius ke fahrenheit dan reamur.
 ## 2. Mathematical Equation
-> R = \frac{4}{5} C
-> F = \left(\frac{9}{5} C\right) + 32
+> R =$\frac{4}{5} C
+> F =$\left(\frac{9}{5} C\right) + 32
 ## 3. Algorithm
 > Mulai
 > Cetak/Print Judul "Program Konversi Suhu"

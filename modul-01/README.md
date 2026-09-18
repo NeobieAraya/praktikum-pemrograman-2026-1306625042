@@ -1,16 +1,27 @@
-# Modul [01] - [Nama Topik Modul]
+# Modul [01] - [Konversi Suhu]
 
-**Nama:** [Nama Mahasiswa]  
-**NIM:** [NIM Mahasiswa]  
-**Kelas:** [Kelas/Kelompok]  
+**Nama:** [Neobie Araya Ahmad Maulana]  
+**NIM:** [1306625042]  
+**Kelas:** [Fisika C]  
 
 ---
 
 ## 1. Problem Statement
-> Jelaskan latar belakang masalah, parameter yang diketahui, serta tujuan dari praktikum atau pemodelan pada modul ini.
-
+> Membuat sebuah program untuk mengganti satuan suhu dari celcius ke fahrenheit dan reamur.
 ## 2. Mathematical Equation
-> Tuliskan persamaan fisika/matematika, rumus numerik, atau penurunan rumus yang digunakan dalam modul ini menggunakan format LaTeX.
-
+> R = \frac{4}{5} C
+> F = \left(\frac{9}{5} C\right) + 32
 ## 3. Algorithm
-> Tuliskan langkah-langkah logika penyelesaian masalah secara sistematis sebelum diimplementasikan ke dalam kode Python (`main.py`).
+> Mulai
+> Cetak/Print Judul "Program Konversi Suhu"
+> Print "Nama: Neobie Araya Ahmad Maulana"
+> Print "NIM:1306625042
+> Input "Suhu Awal:..."
+> Input "Suhu Akhir..."
+> Input "Selang:..."
+> Print "Tabel Konversi"
+> Print "Tabel..."
+> Hitung Celcius ke Reamur : 4/5
+> Hitung Celcius ke Fahrenheit :
+> Print Hasil
+> Selesai

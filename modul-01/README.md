@@ -21,7 +21,7 @@
 > Input "Selang:..."
 > Print "Tabel Konversi"
 > Print "Tabel..."
-> Hitung Celcius ke Reamur : 4/5
+> Hitung Celcius ke Reamur : 4/5×C
 > Hitung Celcius ke Fahrenheit : 9/5×C+32
 > Print Hasil
 > Selesai

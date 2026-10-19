@@ -1,8 +1,8 @@
-# Modul [05] - [Nama Topik Modul]
+# Modul [05] - [Sorting]
 
-**Nama:** [Nama Mahasiswa]  
-**NIM:** [NIM Mahasiswa]  
-**Kelas:** [Kelas/Kelompok]  
+**Nama:** [Neobie Araya Ahmad Maulana]  
+**NIM:** [1306625042]  
+**Kelas:** [Fisika C]  
 
 ---
 
